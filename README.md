@@ -96,5 +96,5 @@ The major thing that I learned in this challenge was the implemetation of BootSt
 
 I grabbed the resposive idea for mobile version of stats from his avaialble code and made it much simpler with bootstrap
 
--Solution Link: https://www.frontendmentor.io/solutions/atom-and-google-crome-uLj2PughJ
--UserName: John Cornelissen
+- Solution Link: https://www.frontendmentor.io/solutions/atom-and-google-crome-uLj2PughJ
+- UserName: John Cornelissen
