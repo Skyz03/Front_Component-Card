@@ -45,8 +45,9 @@ h1 {
   font-weight: 700;
 }
 
-p {
+.heading-text {
   opacity: 60%;
+  font-size: 18px;
 }
 
 .stats-table {
@@ -62,7 +63,33 @@ p {
 }
 
 .stats-description {
+  opacity: 60%;
   text-transform: uppercase;
   font-family: "Lexend Deca", sans-serif;
-  /* font-family: "Inter", sans-serif; */
+}
+
+@media screen and (max-width: 640px) {
+  .profile-img {
+    text-align: left;
+    width: 100%;
+    border-radius: 15px 15px 0 0;
+    z-index: 1;
+  }
+  .col-lg-6 {
+    padding: 0px;
+    text-align: center;
+  }
+  .text-section {
+    padding: 8%;
+  }
+  h1 {
+    font-size: 34px;
+  }
+
+  .heading-text {
+    opacity: 60%;
+    font-size: 20.2px;
+  }
+  .main-div {
+  }
 }
